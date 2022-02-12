@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1494710632 source:c:\users\alienware\desktop\cisc 187\final project\final project\employeeinfo.cpp
+	"EmployeeInfo.h"
+	<iostream>
+	<string>
+
+1494709651 source:c:\users\alienware\desktop\cisc 187\final project\final project\main.cpp
+	"EmployeeInfo.h"
+	"BinaryEmployeeTree.h"
+	<iostream>
+	<sstream>
+	<iomanip>
+	<stdio.h>
+
+1494491320 c:\users\alienware\desktop\cisc 187\final project\final project\employeeinfo.h
+	<string>
+
+1494709229 source:c:\users\alienware\desktop\cisc 187\final project\final project\binaryemployeetree.cpp
+	<iostream>
+	"BinaryEmployeeTree.h"
+
+1494708511 c:\users\alienware\desktop\cisc 187\final project\final project\binaryemployeetree.h
+	"EmployeeInfo.h"
+
